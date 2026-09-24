@@ -1,0 +1,170 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --paper: #F7F4EE;
+    --paper-card: #FFFFFF;
+    --paper-soft: #F1ECE3;
+    --ink: #292B25;
+    --ink-muted: #5E6358;
+    --ink-subtle: #8A8E83;
+    --green: #69755D;
+    --green-dark: #505A47;
+    --green-light: #E7ECE2;
+    --sage: #DCE1D4;
+    --cream: #EFEBE1;
+    --line: rgba(41, 43, 37, 0.12);
+    --line-subtle: rgba(41, 43, 37, 0.06);
+    --gold: #C29A62;
+    
+    /* Double-bezel radii */
+    --radius-outer: 1.5rem;
+    --radius-inner: calc(1.5rem - 0.375rem);
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  html, body {
+    overflow-x: clip;
+    scroll-behavior: smooth;
+    text-size-adjust: 100%;
+  }
+
+  body {
+    background-color: var(--paper);
+    color: var(--ink);
+    font-family: var(--font-sans), system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Typography discipline: headers are roman, prevent word collision */
+  h1, h2, h3, h4, .font-serif {
+    font-family: var(--font-serif), Georgia, "Times New Roman", serif;
+    font-style: normal;
+    letter-spacing: -0.02em;
+    overflow-wrap: anywhere;
+    min-width: 0;
+    font-feature-settings: "liga" 1, "dlig" 1;
+  }
+}
+
+/* Custom utility styles */
+.serif-display {
+  font-family: var(--font-serif), Georgia, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+  line-height: 1.06;
+}
+
+.eyebrow-tag {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-weight: 600;
+  color: var(--green);
+}
+
+/* Double-Bezel Nested Architecture (Outer Shell + Inner Core) */
+.double-bezel {
+  padding: 0.375rem;
+  border-radius: var(--radius-outer);
+  background-color: rgba(41, 43, 37, 0.04);
+  border: 1px solid var(--line-subtle);
+  transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.double-bezel-inner {
+  border-radius: var(--radius-inner);
+  overflow: hidden;
+  position: relative;
+  background-color: #FFFFFF;
+}
+
+/* Button-in-Button Trailing Icon Architecture */
+.btn-island {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.5rem 0.625rem 0.5rem 1.5rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-weight: 500;
+  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.btn-island:active {
+  transform: scale(0.98);
+}
+
+.btn-icon-circle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 9999px;
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.btn-island:hover .btn-icon-circle {
+  transform: translate(2px, -2px) scale(1.05);
+}
+
+/* Subtle image zoom on card hover */
+.img-zoom-container {
+  overflow: hidden;
+}
+
+.img-zoom-container img {
+  transition: transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: transform;
+}
+
+.img-zoom-container:hover img {
+  transform: scale(1.04);
+}
+
+/* Accessible focus ring */
+button:focus-visible,
+a:focus-visible,
+input:focus-visible {
+  outline: 2px solid var(--green);
+  outline-offset: 3px;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.25s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

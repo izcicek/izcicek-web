@@ -1,0 +1,98 @@
+{
+  "brandName": "İz Çiçek Home",
+  "brandTagline": "Evinizde Kalan Zarif Bir İz",
+  "logoText": "İZ ÇİÇEK",
+  "domain": "https://izcicekhome.com",
+  "phone": "0540 376 18 00",
+  "email": "",
+  "instagram": "https://www.instagram.com/izcicekhomee/",
+  "instagramHandle": "@izcicekhomee",
+  "addressNote": "Çankırı / Türkiye",
+  "hero": {
+    "title": "Doğanın dingin zarafeti yaşam alanınızda",
+    "description": "Özel anlarınız, davetleriniz ve eviniz için özenle elde hazırlanan kalıcı çiçek kompozisyonları ve zarif aranjmanlar.",
+    "image": "/img/801883386_18097112135180817_3298097545919467918_n.jpg",
+    "ctaText": "Koleksiyonları Keşfet"
+  },
+  "story": {
+    "eyebrow": "Hikâyemiz & Felsefemiz",
+    "title": "Her köşeye kalıcı bir incelik bırakmak için yola çıktık",
+    "description": "İz Çiçek Home, sıradanlıktan uzak, doğanın organik dokularını ve sakin renk paletlerini modern yaşam alanlarına taşıyan butik bir çiçek atölyesidir. Her tasarımımız; mekanınızın ışığı, enerjisi ve sizin hikâyenizle uyum içinde tek tek elde şekillendirilir.",
+    "secondaryText": "Atölyemizde hazırlanan her parça, zamansız estetiği ve el işçiliğinin sıcaklığını evinize taşır.",
+    "image": "/img/799972088_18096729896180817_1348902634430767839_n.jpg"
+  },
+  "process": [
+    {
+      "step": "01",
+      "title": "Fikir & İlham Paylaşımı",
+      "description": "Beğendiğiniz formu, renk paletini veya kullanım alanını Instagram veya WhatsApp üzerinden bizimle paylaşın."
+    },
+    {
+      "step": "02",
+      "title": "Kişiye Özel Tasarım",
+      "description": "Mekanınıza ve zevkinize uygun vazo, boyut ve çiçek dengesini belirleyip hazırlık öncesi onayınıza sunalım."
+    },
+    {
+      "step": "03",
+      "title": "Atölyede Butik Hazırlık",
+      "description": "Seçilen her dal ve çiçek özenli el işçiliğiyle aranje edilir; kalıcı ve dayanıklı forma kavuşturulur."
+    },
+    {
+      "step": "04",
+      "title": "Özenli & Güvenli Teslimat",
+      "description": "Özel korumalı hediye paketlemesiyle adresinize veya sevdiklerinize güvenle ulaştırılır."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Çiçekleriniz canlı mı, kalıcı mı?",
+      "answer": "Tasarımlarımızda yüksek kaliteli kalıcı yapay çiçekler ile kurutulmuş ve şoklanmış doğal bitkiler bir arada kullanılmaktadır. Bu sayede canlı çiçek tazeliğindeki estetiğini yıllarca solmadan korur."
+    },
+    {
+      "question": "Kişiye ve mekana özel boyut çalışıyor musunuz?",
+      "answer": "Evet, İz Çiçek butik bir atölyedir. Masanızın ölçüsüne, salonunuzun renk tonlarına veya nişan/isteme konseptinize uygun özel aranjmanlar tasarlıyoruz."
+    },
+    {
+      "question": "Siparişi nasıl verebilirim?",
+      "answer": "İncelediğiniz ürünün detay sayfasındaki WhatsApp butonuna tıklayarak veya Instagram (@izcicekhomee) hesabımız üzerinden doğrudan bize mesaj gönderebilirsiniz."
+    },
+    {
+      "question": "Kalıcı çiçeklerin bakımı nasıl yapılmalıdır?",
+      "answer": "Kalıcı tasarımlar su veya budama gerektirmez. Zamanla oluşabilecek tozlardan arındırmak için soğuk fön veya tüy fırça ile nazikçe temizlemek, direkt yakıcı güneşten korumak yeterlidir."
+    },
+    {
+      "question": "Kargo ile gönderim yapılıyor mu?",
+      "answer": "Tüm ürünlerimiz sarsıntıya ve darbeye karşı güçlendirilmiş özel tasarım koruma kutularında Türkiye'nin her yerine kargo ile gönderilmektedir."
+    }
+  ],
+  "instagramPosts": [
+    {
+      "id": "ig-1",
+      "image": "/img/810962197_18098634740180817_6463362855037318473_n.jpg",
+      "alt": "İnci detaylı el buketi",
+      "link": "https://www.instagram.com/izcicekhomee/",
+      "caption": "İnci zarafeti ve bahar tonları bir arada..."
+    },
+    {
+      "id": "ig-2",
+      "image": "/img/801883386_18097112135180817_3298097545919467918_n.jpg",
+      "alt": "Vintage gazete ambalajlı beyaz laleler",
+      "link": "https://www.instagram.com/izcicekhomee/",
+      "caption": "Zamansız beyaz Fransız lale zarafeti."
+    },
+    {
+      "id": "ig-3",
+      "image": "/img/813420966_18099190595180817_4836362111779337345_n.jpg",
+      "alt": "Doğum günü özel cam vazo aranjmanı",
+      "link": "https://www.instagram.com/izcicekhomee/",
+      "caption": "En tatlı doğum günü sürprizi ve kutlama aranjmanı."
+    },
+    {
+      "id": "ig-4",
+      "image": "/img/798467796_18096729065180817_3895095745441842860_n.jpg",
+      "alt": "Kraft kağıtta ayçiçeği ve mavi kır buketi",
+      "link": "https://www.instagram.com/izcicekhomee/",
+      "caption": "Günebakanların sıcacık yaz enerjisi..."
+    }
+  ]
+}

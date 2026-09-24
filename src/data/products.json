@@ -1,0 +1,157 @@
+[
+  {
+    "id": "p1",
+    "slug": "inci-detayli-bahar-buketi",
+    "name": "İnci Bahar Buketi",
+    "category": "buketler",
+    "description": "Fıstık yeşili kapalı laleler, krem şakayıklar ve canlı mor kır çiçeklerinin inci sarkıtlı lüks ambalajla zarif buluşması.",
+    "details": "Özel anlar, söz, nişan veya kutlamalar için özenle elde hazırlanan el buketi; transparan desenli su geçirmez kağıt, toz pembe saten kurdele ve inci dizim kulp detayıyla tamamlanmıştır. Doğal bahar tazeliğini kalıcı dokularla mekanınıza taşır.",
+    "images": [
+      "/img/810962197_18098634740180817_6463362855037318473_n.jpg",
+      "/img/799676070_18096730811180817_6408413065844503366_n.jpg",
+      "/img/811170302_18098634731180817_245019283780151959_n.jpg"
+    ],
+    "featured": true,
+    "material": "Gerçek dokulu (real-touch) lale ve şakayıklar, clematis, birinci sınıf buket ambalajı, saten kurdele ve inci dizim",
+    "care": "Su gerektirmez. Formunu koruması için dik vazoda veya ambalajında muhafaza ediniz. Tozunu yumuşak fırça ile alabilirsiniz.",
+    "isSample": false
+  },
+  {
+    "id": "p2",
+    "slug": "vintage-gazete-beyaz-lale-buketi",
+    "name": "Vintage Lale Buketi",
+    "category": "buketler",
+    "description": "Fransız tipografi gazete desenli ambalaj içerisinde, yanardöner sedef kurdele ile bağlanan asil fildişi lale buketi.",
+    "details": "Zamansız ve zarif bir nostalji sunan bu el buketi; birinci sınıf dokulu fildişi ve beyaz laleler ile özel tipografik buket kağıdından oluşur. Işıltılı organze fiyongu ile hem sade hem büyüleyici bir hediyedir.",
+    "images": [
+      "/img/801883386_18097112135180817_3298097545919467918_n.jpg",
+      "/img/799782900_18097112123180817_5132764102918893178_n.jpg"
+    ],
+    "featured": true,
+    "material": "Real-touch lateks dokulu kalıcı laleler, tipografik ambalaj kağıdı, sedefli organze tül kurdele",
+    "care": "Doğrudan yakıcı güneşten ve aşırı nemden koruyunuz. Dilediğiniz vazo içerisinde uzun yıllar ilk günkü tazeliğini korur.",
+    "isSample": false
+  },
+  {
+    "id": "p3",
+    "slug": "aycicegi-mavi-kir-buketi",
+    "name": "Ayçiçeği Kır Buketi",
+    "category": "buketler",
+    "description": "Sıcak sarı ayçiçekleri, gök mavisi ponpon çiçekler, beyaz güller ve cipsolarla hazırlanan samimi ve enerjik el buketi.",
+    "details": "Güneşin neşesini ve kır bahçelerinin ferahlığını yansıtan bu tasarım; doğal kahve kraft kağıt ve jüt ip dokusuyla tamamlanmıştır. Doğum günleri ve içten tebrikler için harika bir tercihtir.",
+    "images": [
+      "/img/798467796_18096729065180817_3895095745441842860_n.jpg"
+    ],
+    "featured": true,
+    "material": "Yüksek kaliteli yapay ayçiçekleri, mavi krizantem ponponları, beyaz güller, cipso dolgusu, doğal kraft kağıdı ve jüt ip",
+    "care": "Kuru ve havadar bir ortamda sergileyiniz. Su ile temas ettirmeyiniz.",
+    "isSample": false
+  },
+  {
+    "id": "p6",
+    "slug": "saten-fiyonklu-pudra-seramik-aranjman",
+    "name": "Pudra Seramik Aranjman",
+    "category": "masa-ustu",
+    "description": "Krem seramik kupa haznesinde pastel somon, pudra pembe ve fildişi ranunculus çiçekleri; önünde zarif saten fiyonk.",
+    "details": "Masa, konsol, çalışma masası veya makyaj masaları için dingin ve romantik bir hava. Mat krem seramik form içerisinde özenle konumlandırılmış katmerli pastel çiçekler ve pudra pembe saten fiyonk kurdele ile naif bir butik dokunuş.",
+    "images": [
+      "/img/799571041_18096706004180817_8768844334364225984_n.jpg"
+    ],
+    "featured": true,
+    "material": "Krem konik seramik hazne, lüks katmerli ranunculus ve şakayık dokuları, pudra saten fiyonk",
+    "care": "Su gerektirmez. Kuru bez veya yumuşak fırça ile kolayca temizlenebilir.",
+    "isSample": false
+  },
+  {
+    "id": "p7",
+    "slug": "dogum-gunu-kutlama-cam-vazo-aranjman",
+    "name": "Kutlama Cam Vazosu",
+    "category": "aranjmanlar",
+    "description": "Şeffaf cam vazoda doğal beyaz çakıl taşları, pudra şakayık, Happy Birthday tebrik zarfı ve kırmızı kalp figürü.",
+    "details": "Doğum günleri ve özel kutlamalar için eksiksiz bir hediye tasarımı. Şeffaf cam vazo içerisinde beyaz mermer taş dolgusu, pastel tonlu ponpon krizantem ve şakayıklar, yanardöner ışıltılı organze kurdele ve sevimli mini kutlama zarfı ile hazırlanır.",
+    "images": [
+      "/img/813420966_18099190595180817_4836362111779337345_n.jpg",
+      "/img/813733901_18099190625180817_3384074726894867904_n.jpg"
+    ],
+    "featured": true,
+    "material": "Şeffaf cam vazo, doğal beyaz dolgu taşları, katmerli yapay kır çiçekleri, organze kurdele, özel kutlama zarfı",
+    "care": "Su eklemeyiniz. Doğrudan güneş almayan iç mekanlarda uzun yıllar ilk günkü gibi kalır.",
+    "isSample": false
+  },
+  {
+    "id": "p8",
+    "slug": "nostalji-esintisi-cam-vazo-aranjmani",
+    "name": "Nostalji Cam Vazo",
+    "category": "aranjmanlar",
+    "description": "Doğal beyaz taşlı cam vazo içerisinde leylak ve pudra krizantem ponponlar, şakayık ve sevimli kırmızı kalp detayı.",
+    "details": "Şeffaf silindir cam vazo içerisine yerleştirilen doğal beyaz mermer taşları, yumuşak tonlu ponpon çiçekler, pudra saten fiyonk ve minik ahşap mandallı not kartı ile nostaljik ve sıcak anlar için romantik bir köşe yaratır.",
+    "images": [
+      "/img/806299653_18098133422180817_4027367511414938861_n.jpg"
+    ],
+    "featured": true,
+    "material": "El yapımı cam vazo, doğal beyaz dolgu taşları, katmerli yapay çiçekler, ahşap mandal ve kalp figürü",
+    "care": "Cam yüzeyi hafif nemli bezle silinebilir. Çiçekler bakım gerektirmez.",
+    "isSample": false
+  },
+  {
+    "id": "p9",
+    "slug": "mavi-ayicikli-bebek-hediyeligi",
+    "name": "Ayıcıklı Bebek Kolonyası",
+    "category": "masa-ustu",
+    "description": "Baby shower, yeni doğan ve mevlüt kutlamaları için sevimli mavi ayıcık kartı, cam sprey kolonya şişesi ve inci detayları.",
+    "details": "Bebeğinizin en özel gününde misafirlerinize kalıcı ve sevimli bir hatıra sunun. Yaldızlı balonlu sevimli ayıcık figür kartı üzerine monte edilmiş altın başlıklı sprey cam kolonya şişesi, içindeki parıltılı inciler ve ferahlatıcı kokusuyla özenle hazırlanmıştır. Çoklu adet siparişi oluşturulabilir.",
+    "images": [
+      "/img/802031193_18097440077180817_2709039183878070203_n.jpg",
+      "/img/802334041_18097440080180817_8037099646815807825_n.jpg"
+    ],
+    "featured": true,
+    "material": "Özel kesim kuşe figür kartı, altın detaylı cam sprey şişesi, dekoratif inciler ve ferah bebek kolonyası",
+    "care": "Serin ve kuru yerde, doğrudan güneş ışığından uzakta muhafaza ediniz.",
+    "isSample": false
+  },
+  {
+    "id": "p10",
+    "slug": "team-bride-ozel-kolonya-sisesi",
+    "name": "Team Bride Kolonyası",
+    "category": "masa-ustu",
+    "description": "Nedimeler ve bekarlığa veda kutlamaları için altın yaldızlı 'Team Bride' yazılı, inci taneli ve fiyonklu geometrik cam kolonya şişesi.",
+    "details": "Gelin ve nedime grubu için unutulmaz bir kolonya hediyeliği. Elmas kesim geometrik cam şişe içerisinde ferahlatıcı kokusu, parıltılı inci taneleri, kurutulmuş doğal çiçekler, krem keten dokulu kurdele ve inci detaylı fiyonk süslemesi ile hazırlanmıştır. Kına gecesi, bekarlığa veda ve düğün hazırlığı anlarına ışıltı katar. Çoklu adet siparişi oluşturulabilir.",
+    "images": [
+      "/img/798478535_18096602858180817_7225243449810123590_n.jpg"
+    ],
+    "featured": true,
+    "material": "Geometrik prizma cam kolonya şişesi, altın varak kaligrafi, dekoratif inci taneleri, kurutulmuş çiçek, keten fiyonk ve özel esanslı kolonya",
+    "care": "Kuru ve serin ortamda saklayınız. Şişe yüzeyi yumuşak bir bez ile nazikçe temizlenebilir.",
+    "isSample": false
+  },
+  {
+    "id": "p11",
+    "slug": "bride-vintage-kolonya-sisesi",
+    "name": "Bride Vintage Kolonya",
+    "category": "masa-ustu",
+    "description": "Gelin masası ve gelin odası çekimleri için altın simli 'Bride' yazılı, doğal mantar tıpalı ve pileli fiyonklu vintage cam kolonya şişesi.",
+    "details": "Gelin sabahı hazırlıkları, dış çekim detay kareleri ve kutlama masaları için özel olarak tasarlanan kolonya şişesi. Nostaljik kare formlu cam şişe üzerine altın kaligrafi işleme, doğal mantar kapak, özel esanslı kolonya dolumu ve krep fiyonk dokunuşuyla romantik ve zarif bir hatıradır.",
+    "images": [
+      "/img/799263784_18096603923180817_8676170622782280900_n.jpg"
+    ],
+    "featured": true,
+    "material": "Vintage cam kolonya şişesi, altın varak tipografi, doğal mantar kapak, pileli dokuma kurdele ve özel esanslı kolonya",
+    "care": "Direkt güneşten ve sert darbelerden koruyunuz. Kuru bezle tozu alınabilir.",
+    "isSample": false
+  },
+  {
+    "id": "p12",
+    "slug": "altin-cerceveli-inci-detayli-el-aynasi",
+    "name": "İncili Altın El Aynası",
+    "category": "masa-ustu",
+    "description": "Söz, nişan, nikah ve kına davetlilerine özel altın boncuk çerçeveli, krem fiyonk ve incili nostaljik cep aynası.",
+    "details": "Misafirlerinize ömür boyu saklayabilecekleri asil ve kalıcı bir teşekkür hediyesi. Tırtıklı altın varak metal çerçeve içerisindeki ayna; el yapımı krem kurdele fiyonk, sedef inci ve tomurcuk çiçek aranjmanıyla süslenmiştir. Çanta boyu kullanım için idealdir ve toplu adetlerde hazırlanabilmektedir.",
+    "images": [
+      "/img/799676078_18096603476180817_2608154818434652134_n.jpg"
+    ],
+    "featured": true,
+    "material": "Gold kaplama metal boncuk çerçeve, gerçek ayna, tekstüre kurdele, inci ve kurutulmuş botanik tomurcuklar",
+    "care": "Ayna yüzeyi cam temizleyici ile nazikçe silinebilir. Kurdele süslemesini nemden uzak tutunuz.",
+    "isSample": false
+  }
+]

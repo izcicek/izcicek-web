@@ -1,0 +1,23 @@
+[
+  {
+    "id": "c1",
+    "slug": "buketler",
+    "name": "Özel Gün & El Buketleri",
+    "description": "Nişan, isteme, söz ve kutlamalar için inci ve saten detaylı özel el buketleri.",
+    "image": "/img/810962197_18098634740180817_6463362855037318473_n.jpg"
+  },
+  {
+    "id": "c2",
+    "slug": "aranjmanlar",
+    "name": "Cam Vazo & Kutlama Aranjmanları",
+    "description": "Doğum günü, tebrik ve özel köşeleriniz için doğal taşlı cam vazo tasarımları.",
+    "image": "/img/813420966_18099190595180817_4836362111779337345_n.jpg"
+  },
+  {
+    "id": "c3",
+    "slug": "masa-ustu",
+    "name": "Masa Üstü & Özel Tasarımlar",
+    "description": "Sehpa, masa ve özel etkinlikler için seramik ve konsept hediyelik tasarımlar.",
+    "image": "/img/799571041_18096706004180817_8768844334364225984_n.jpg"
+  }
+]

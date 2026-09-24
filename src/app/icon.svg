@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#282B24"/>
+      <stop offset="100%" stop-color="#1A1C16"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F3E5C8"/>
+      <stop offset="50%" stop-color="#D4AF67"/>
+      <stop offset="100%" stop-color="#A88238"/>
+    </linearGradient>
+    <linearGradient id="petalGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#E2DDD2"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Squircle Base Frame -->
+  <rect width="512" height="512" rx="120" fill="url(#bgGrad)"/>
+  
+  <!-- Subtle Elegant Border -->
+  <rect x="24" y="24" width="464" height="464" rx="96" fill="none" stroke="url(#goldGrad)" stroke-width="6" opacity="0.35"/>
+
+  <!-- Floral Emblem Motif -->
+  <g transform="translate(256, 260)">
+    <!-- Crown Monogram Dot (İz Çiçek "İ" and Pearl Symbol) -->
+    <circle cx="0" cy="-145" r="22" fill="url(#goldGrad)"/>
+    
+    <!-- Central Core Stem & Bud -->
+    <path d="M0, 110 C-14, 50 -10, -60 0, -95 C10, -60 14, 50 0, 110 Z" fill="url(#goldGrad)" opacity="0.95"/>
+    
+    <!-- Outer Left Sculptural Petal -->
+    <path d="M -10, 100 C -75, 70 -120, -5 -110, -60 C -100, -105 -55, -120 -18, -68 C -26, 0 -16, 50 -10, 100 Z" fill="url(#petalGrad)"/>
+    
+    <!-- Outer Right Sculptural Petal -->
+    <path d="M 10, 100 C 75, 70 120, -5 110, -60 C 100, -105 55, -120 18, -68 C 26, 0 16, 50 10, 100 Z" fill="url(#petalGrad)"/>
+    
+    <!-- Inner Left Gold Accent Petal -->
+    <path d="M -5, 90 C -48, 48 -75, -10 -58, -52 C -45, -82 -20, -72 -6, -32 C -14, 15 -7, 55 -5, 90 Z" fill="url(#goldGrad)" opacity="0.85"/>
+    
+    <!-- Inner Right Gold Accent Petal -->
+    <path d="M 5, 90 C 48, 48 75, -10 58, -52 C 45, -82 20, -72 6, -32 C 14, 15 7, 55 5, 90 Z" fill="url(#goldGrad)" opacity="0.85"/>
+
+    <!-- Calyx Pedestal / Arc Ribbon -->
+    <path d="M -10, 105 C -50, 120 -80, 145 -100, 180 C -80, 165 -45, 150 0, 145 C 45, 150 80, 165 100, 180 C 80, 145 50, 120 10, 105 Z" fill="url(#goldGrad)" opacity="0.75"/>
+  </g>
+</svg>
